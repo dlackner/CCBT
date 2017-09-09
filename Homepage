@@ -1,0 +1,40 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    	<div id="header">
+		<title>CryptoCurrency and Blockchain Technology Club</title>
+		</div>
+    <link href="site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<div id="green">
+		<div id="header">
+			<a href="/~davidw/www/">CryptoCurrency and Blockchain Technology Club</a>
+		</div>
+		
+				<! CONTENT>
+			
+		<div id="content">
+					<div id="mainnav">
+			<a href = "About.html"> <br>About </a>
+			<br /> 
+			<a href = "Constitution.html"> <br> Constitution </a>			
+
+			</div>
+		<div id="mainpic">
+									<img src="images/Homepage/coin.jpg" alt="A Picture">
+		</div>
+		</div>
+
+			<! FOOTER>
+			
+		<div id = "footer">
+		<ul>
+				<li><a href="email.html" target="_top">email</a></li>
+		</ul>
+</div>	
+
+</body>
+
+</html>
