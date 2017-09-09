@@ -1,0 +1,32 @@
+
+
+<!DOCTYPE>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>About Us</title>
+    <link href="site.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="green">
+        <div id="header">
+            <a href="Homepage.html">Tufts CryptoCurrency and Blockchain Technology Club  </a>
+        </div>
+	
+	<! CONTENT >
+	<p> <a href="Homepage.html"> Home </a></p>
+        <div id="content">
+        
+        
+		<p align="left"> To be Added  </p>
+        </div>
+<div id = "footer">
+	<ul>
+		<li><a href="email.html" 
+				target="_top">email</a></li>
+	</ul>
+</div>
+</body>
+</html>
+			
+			
